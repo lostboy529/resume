@@ -1,1 +1,5 @@
-<embed src=”./resume_sparsh.pdf" type=”application/pdf” width=”100%” height=”100%”>
+# Resume
+Sparsh Kumar Jha's resume.
+
+## View
+The file `resume_sparsh.pdf` is the latest resume of the owner of this repository.
